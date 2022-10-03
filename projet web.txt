@@ -1,0 +1,25 @@
+La définition d'un projet web, un projet web c'est un projet informatique dont les livrables ont pour destination le web (le reseau internet)
+
+Les objectifs d'un projet web 
+
+Visibilite du web
+
+
+
+
+Termes utiles gestion du projet : 
+
+- La définition d'un projet web 
+
+- Les enjeux d'un projet web
+
+- Les moyens d'un projet web
+ 
+	- Financier
+		- Avant-Projet : Frais de licence, de matériel info,...
+		- Projet : Salaires, sous-traitant
+		- Post-Projet
+	- Techniques : outils informatique (logiciel, poste, serveur...)
+	- Humain 
+
+-
