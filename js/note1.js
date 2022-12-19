@@ -64,3 +64,4 @@ const square = number => number * number;
 
 const number = square (2);
 console.log(number)
+
