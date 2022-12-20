@@ -1,9 +1,13 @@
-CR = C.replaceAll("a", "A");
-CR = CR.replaceAll("a", "A");
-CR = CR.replaceAll("e", "E");
-CR = CR.replaceAll("u", "U");
-CR = CR.replaceAll("i", "I");
-CR = CR.replaceAll("o", "O");
-CR = CR.replaceAll("y", "Y");
+//- 8 Écrivez une fonction qui prend une chaîne de caractères et renvoie une nouvelle chaîne avec toutes les voyelles en majuscules.
 
-console.log(CR);
+C = "Toutes les voyelles en majuscules";
+
+MP = C.replaceAll("a", "A");
+MP = MP.replaceAll("a", "A");
+MP = MP.replaceAll("e", "E");
+MP = MP.replaceAll("u", "U");
+MP = MP.replaceAll("i", "I");
+MP = MP.replaceAll("o", "O");
+MP = MP.replaceAll("y", "Y");
+
+console.log(MP);//TOUtEs lEs vOYEllEs En mAjUscUlEs

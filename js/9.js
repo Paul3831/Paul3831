@@ -1,4 +1,6 @@
-function Compteur(str) {
+//- 9 Écrivez une fonction qui prend une chaîne de caractères et renvoie le nombre de voyelles dans cette chaîne.
+
+function Renvoie(str) {
     var vowelsCount = 0;
     var string = str.toString();
     for (var i = 0; i <= string.length - 1; i++) {
@@ -12,4 +14,4 @@ function Compteur(str) {
     return vowelsCount;
 }
 
-console.log(Compteur("Abracadabra !"));
+console.log(Renvoie("Abracadabra !"));//5
