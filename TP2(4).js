@@ -2,9 +2,8 @@
 
 const fs = require("fs");
 
-let directory_name = "C:\\js";  // Chemin du repertoire en question
-
-let filenames = fs.readdirSync(directory_name);
+let name = "C:\\js";  // Chemin du repertoire
+let filenames = fs.readdirSync(name);
 
 console.log("\nFichiers dans le repertoire : ");
 filenames.forEach((file) => {

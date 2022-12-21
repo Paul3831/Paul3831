@@ -1,4 +1,4 @@
-// 1 Écrivez un programme Node.js qui lit un fichier et imprime son contenu dans la console.
+//1 Écrivez un programme Node.js qui lit un fichier et imprime son contenu dans la console.
 const fs = require("fs");
 
 fs.readFile ("text.txt", "utf-8", (err,data) => {
