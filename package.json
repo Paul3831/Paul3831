@@ -1,0 +1,27 @@
+{
+  "name": "js",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Paul3831/Paul3831.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Paul3831/Paul3831/issues"
+  },
+  "homepage": "https://github.com/Paul3831/Paul3831#readme",
+  "dependencies": {
+    "colors": "^1.4.0",
+    "console-menu": "^0.1.0",
+    "prompt": "^1.3.0",
+    "save": "^2.9.0"
+  }
+}
